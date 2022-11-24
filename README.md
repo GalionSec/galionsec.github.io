@@ -1,2 +1,2 @@
-# i-luv-pizza-Website
+# i-luv-pizza
 We all love pizza... And more when it's free
